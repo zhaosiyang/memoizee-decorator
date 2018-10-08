@@ -4,8 +4,6 @@
 
 ## Installing
 
-Using npm:
-note: `axios` and `rxjs` are peer dependencies.
 
 ```bash
 $ npm install memoizee-decorator --save
