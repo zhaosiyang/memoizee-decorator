@@ -21,6 +21,7 @@
   "author": "Siyang Kern Zhao <siyangkernzhao@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "@types/memoizee": "^0.4.2",
     "typescript": "^2.9.2"
   },
   "dependencies": {
